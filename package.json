@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/normdock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Norm CSV/TSV dock tables for quick inspection and cleanup.",
+  "bin": {
+    "normdock": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/normdock.git"
+  },
+  "homepage": "https://theworker02.github.io/normdock/",
+  "keywords": [
+    "norm",
+    "dock",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
